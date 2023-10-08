@@ -18,4 +18,4 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Screenshot
 
-![Alt text](image.png)
+![Alt text](image-1.png)
